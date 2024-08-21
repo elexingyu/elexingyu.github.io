@@ -2,8 +2,8 @@
 layout: article
 title: "代码图（codegraph）如何辅助编程"
 date: 2024-08-21
-author: "活水智能编译"
-categories: 教程
+author: "活水智能"
+categories: tutorial
 tags:
   - 知识图谱
   - 编程

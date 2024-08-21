@@ -24,12 +24,16 @@ title   : 活水智能博客
 description: > # this means to ignore newlines until "Language & timezone"
   欢迎来到活水智能博客💧
 
-
 ## => Language and Timezone
 ##############################
-lang: # the language of your site, default as "en"
+lang: zh # the language of your site, default as "en"
 timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
+
+collections:
+  tutorial:
+    output: true
+    permalink: /:tutorial/:name/
 
 ## => Author and Social
 ##############################
