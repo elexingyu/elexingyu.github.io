@@ -1,13 +1,8 @@
 ---
-layout: article
+layout: post
 title: "代码图（codegraph）如何辅助编程"
-date: 2024-08-21
-author: "活水智能"
-categories: tutorial
-tags:
-  - 知识图谱
-  - 编程
-mathjax: true
+date: 2024-08-21 23:45:13 -0400
+tags: [知识图谱, 教程]
 ---
 
 
