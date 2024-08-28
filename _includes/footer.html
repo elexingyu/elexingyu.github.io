@@ -67,6 +67,31 @@
             </a>
           </li>
           {% endif %}
+
+          <!-- 添加微信公众号图标和链接 -->
+          {% if site.weixin_qr %}
+          <li class="list-inline-item">
+            <a href="{{ site.weixin_qr }}" target="_blank">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-weixin fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+
+          <!-- 添加福利群图标和链接 -->
+          {% if site.group_qr %}
+          <li class="list-inline-item">
+            <a href="{{ site.group_qr }}" target="_blank">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fas fa-users fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+
         </ul>
         <p class="copyright text-muted">Copyright &copy; {{ site.author }} {{ 'now' | date: "%Y" }}</p>
       </div>

@@ -6,11 +6,13 @@ baseurl:            ""
 url:                "https://startbootstrap.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    
+facebook_username:  
 instagram_username:  
 linkedin_username:
+weixin_qr: "img/weixin_qr_code.png"
+group_qr: "img/group_qr_code.jpg"
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   G-98CWFRSHCF # 替换为你的GA4衡量ID
