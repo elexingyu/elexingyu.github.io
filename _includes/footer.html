@@ -102,6 +102,18 @@
             </a>
           </li>
 
+          <!-- 添加客服图标和链接 -->
+          {% if site.customer_service %}
+          <li class="list-inline-item">
+            <a href="{{ site.customer_service }}" target="_blank">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fas fa-comments fa-stack-1x fa-inverse"></i> <!-- 这里可以替换为其他图标，例如 fa-phone, fa-life-ring 等 -->
+              </span>
+            </a>
+          </li>
+          {% endif %}
+
         </ul>
         <p class="copyright text-muted">Copyright &copy; {{ site.author }} {{ 'now' | date: "%Y" }}</p>
       </div>
