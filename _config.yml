@@ -28,3 +28,6 @@ plugins:
 
 # Customer Service
 customer_service: "img/customer_service_image.png"
+
+include:
+  - assets
