@@ -88,7 +88,7 @@ AI驱动的研究助手，可用于查找论文、筛选研究类型、自动化
 
   
 
-推荐阅读
+## 推荐阅读
 
 [Triplex：用于创建知识图谱的开源模型，成本比GPT-4o低10倍！](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247486546&idx=1&sn=98139129e78b457e2f1885495f3c58b3&chksm=c3546ec1f423e7d7df329e883ab39c79eaf61e6bc38cc801a318c7f95a229a670b161ca445af&scene=21#wechat_redirect)  
 
