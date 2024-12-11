@@ -165,5 +165,5 @@ def create_post(input_file, publish_date=None):
 if __name__ == "__main__":
     # 使用示例
     input_file = "input.md"  # 你的输入文件
-    publish_date = "2024-12-11"  # 指定发布日期
+    publish_date = "2024-10-28"  # 指定发布日期
     create_post(input_file, publish_date) 

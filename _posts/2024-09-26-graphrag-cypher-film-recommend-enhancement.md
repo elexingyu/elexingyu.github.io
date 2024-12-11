@@ -1,6 +1,6 @@
 ---
 categories: articles
-date: '2024-09-26'
+date: 2024-09-26
 layout: post
 style: huoshui
 tags:
