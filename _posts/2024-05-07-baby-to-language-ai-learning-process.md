@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "从咿呀到语言：婴儿如何教会AI学习语言"
+categories: ['articles']
 date: 2024-05-07
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 从咿呀到语言：婴儿如何教会AI学习语言
 ---
 
 语言是人类沟通的基石。一个婴儿如何从简单的咿呀声发展到流畅的语言表达，这一过程一直是心理学、语言学和人工智能领域研究的焦点。
@@ -81,6 +84,3 @@ https://doi.org/10.1162/opmi_a_00039
 https://www.nytimes.com/2024/04/30/science/ai-infants-language-learning.html
 
 https://time.com/6632398/ai-language-study-baby/
-
-
-

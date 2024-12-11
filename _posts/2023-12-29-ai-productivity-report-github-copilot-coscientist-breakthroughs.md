@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "AI生产力快报｜12"
+categories: articles
 date: 2023-12-29
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: AI生产力快报｜12
 ---
-
 
 ![](/assets/images/6ab02cae9b6f40128817bdfdec112b92.gif)
 
@@ -348,4 +349,3 @@ AI+（Vertical Software）。
     
     原文：https://www.gatesnotes.com/The-Year-Ahead-2024  
     中文：https://36kr.com/p/2570212044152706
-

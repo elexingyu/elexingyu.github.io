@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "AI生产力快报｜13"
+categories: articles
 date: 2024-01-04
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: AI生产力快报｜13
 ---
 
 ![](/assets/images/40a1c3ee174d4fd7b83f8d1159d5c5b1.gif)
@@ -316,4 +318,3 @@ Hugging Face 的研究员 Clémentine Fourrier 撰文回顾开源 LLMs
     
     
     原文：https://www.deeplearning.ai/the-batch/issue-229
-

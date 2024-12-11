@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "AIGC每周观察[0807-0813]"
+categories: articles
 date: 2023-08-18
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: AIGC每周观察[0807-0813]
 ---
-
 
 ![](/assets/images/616e220271f24dbe9f5629723e274cf2.jpg)
 
@@ -178,6 +179,3 @@ GPT辅助阅读的深度始终有限，在第一轮的辅助效果最好。
 **👇 加入知识星球，一起玩转GPT！**
 
 ![](/assets/images/4882e82b99a044b69eba4043ce1bcc05.jpg)
-
-
-

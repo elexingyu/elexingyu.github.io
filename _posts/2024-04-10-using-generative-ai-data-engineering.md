@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "作为数据工程师，我是如何运用生成式AI的"
+categories: articles
 date: 2024-04-10
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: 作为数据工程师，我是如何运用生成式AI的
 ---
 
 作者：Hugo Lu  

@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "重新思考工作：专业人士如何使用大模型"
+categories: ['articles']
 date: 2024-05-13
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 重新思考工作：专业人士如何使用大模型
 ---
 
 来源：ACM 通讯  
@@ -122,4 +125,3 @@ AI程序，正在审理一些涉及版权侵权的法律案件。
   • [作为数据工程师，我是如何运用生成式AI的？](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485026&idx=1&sn=4a5404ab43212c8670a5b364f2c2970b&chksm=c35464f1f423ede7d877cde4459156d97d10d9fe2998d759af0ff645a7ae693409148ff456be&scene=21#wechat_redirect)[](https://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485309&idx=1&sn=2ad2a45d8d8433793c79b2cf29897fed&scene=21#wechat_redirect "哪些工作会被AI取代？分析了500万个自由职业之后，得出四个结论")
 
   • [用时42天，借助AI大模型，创作者们的产品亮相](https://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485306&idx=1&sn=11012a7414b0bc84ea8bf08ab7e122e9&scene=21#wechat_redirect "用时42天，借助AI大模型，创作者们的产品亮相了")
-

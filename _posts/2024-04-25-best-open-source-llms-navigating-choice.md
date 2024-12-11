@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "开源大模型太多怎么选一文读懂，5个最好的开源大模型！"
+categories: articles
 date: 2024-04-25
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: 开源大模型太多怎么选一文读懂，5个最好的开源大模型！
 ---
 
 作者：Sherlock Xu  
@@ -197,4 +199,3 @@ LLMs的伦理部署需要仔细考虑偏见、透明度、问责制以及潜在�
   • [让AI模仿作家写作风格！3个你不知道的技巧](https://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485092&idx=1&sn=a3278a0697ee3042783d3f46e9479d38&scene=21#wechat_redirect "让AI模仿作家写作风格！3个你不知道的技巧")
 
   • [用AI重塑新闻网站后，我总结了十个AI使用心得](https://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485004&idx=1&sn=19e003168f8f6280854f83857e3bdb82&scene=21#wechat_redirect "用AI重塑新闻网站后，我总结了十个AI使用心得")
-

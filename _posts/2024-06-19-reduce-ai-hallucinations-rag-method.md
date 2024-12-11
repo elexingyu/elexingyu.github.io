@@ -1,11 +1,13 @@
 ---
-layout: post
-title: "如何减少大模型回答的虚假信息试试这个方法降低幻觉"
+categories: ['articles']
 date: 2024-06-19
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 如何减少大模型回答的虚假信息试试这个方法降低幻觉
 ---
-
 
 ![](/assets/images/3305630dc38f4144adf5f7fda6626d4c.png)
 
@@ -149,5 +151,3 @@ RAG过程包括三个关键步骤。
 [RAG系统是如何工作？附图及运用场景](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485065&idx=1&sn=b3bb902801311092ba14223464318da9&chksm=c354641af423ed0c52700f29999b3548542d132a565d7159ca3d5c54a9bcf5ac937753394e66&scene=21#wechat_redirect)
 
 [提示工程 vs 微调 vs RAG？终于讲明白了](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247484977&idx=1&sn=e5e4bcc108c8cf6f01dcc305c84fd6ed&chksm=c35464a2f423edb46defe0a8340c82f945a29fbabe851f024a6b13e171ae41f6703f3c3a1a07&scene=21#wechat_redirect)
-
-  

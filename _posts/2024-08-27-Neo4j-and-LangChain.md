@@ -1,10 +1,13 @@
 ---
-layout: post
-title: "Neo4j + LangChain：如何构建基于知识图谱的最强RAG系统？"
-date: 2024-08-27
 author: 活水智能
-tags: [知识图谱, 教程]
+categories: articles
+date: 2024-08-27
+layout: post
 style: huoshui
+tags:
+- 知识图谱
+- 教程
+title: Neo4j + LangChain：如何构建基于知识图谱的最强RAG系统？
 ---
 
 ![](https://dist.neo4j.com/wp-content/uploads/20240816092114/pixabay-image-e1723825296938.jpg)

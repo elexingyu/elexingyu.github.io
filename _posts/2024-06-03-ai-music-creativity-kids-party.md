@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "这个六一，大小朋友们3小时创作了2000多首歌"
+categories: articles
 date: 2024-06-03
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: 这个六一，大小朋友们3小时创作了2000多首歌
 ---
-
 
 ![](/assets/images/1d5da116400049fe8426085e584a8d18.png)  
 
@@ -93,6 +94,3 @@ AI时代
   
 
 * * *
-
-
-

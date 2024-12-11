@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "写给“活水格友”的第一封信"
+categories: news
 date: 2024-03-27
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: 写给“活水格友”的第一封信
 ---
 
 > 活水格子（42grid.io）：把概念做成积木，把关系装进卡片，把知识建成体系。
@@ -78,6 +80,3 @@ style: huoshui
   
 
 ![](/assets/images/7654bd0c873047b6a4c4e411e8b19f4c.jpg)
-
-  
-

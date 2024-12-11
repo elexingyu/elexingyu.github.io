@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "AIGC每周观察[0814-0820]"
+categories: articles
 date: 2023-08-24
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: AIGC每周观察[0814-0820]
 ---
-
 
 ![](/assets/images/67ec4e3341584a9ca1a6c116ec20debc.png)
 
@@ -180,5 +181,3 @@ Accelerationism）。这是一种整合生物、物理、经济和社会理论�
 **👇 加入知识星球，一起玩转GPT！**
 
 ![](/assets/images/4de5381f6f3e45cd97db8b7479a3f619.jpg)
-
-

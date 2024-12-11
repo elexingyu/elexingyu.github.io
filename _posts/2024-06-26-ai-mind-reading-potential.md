@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "AI大模型能否猜测人的心理状态心理学正在探究AI的内在工作原理"
+categories: articles
 date: 2024-06-26
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: AI大模型能否猜测人的心理状态心理学正在探究AI的内在工作原理
 ---
 
 ![](/assets/images/20c7112b42584358949acfc1aff01780.png)
@@ -125,6 +128,4 @@ AI 还在提示任务中超越了人类——基本上是理解暗示信息。�
 
 [利用AI大模型，将任何文本语料转化为知识图谱，可本地运行](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485511&idx=1&sn=48398e8c05077a9e202e729771a27452&chksm=c3546ad4f423e3c205211f27169f6861c90450df19ac47518048242f8d11e1d023cefe22c084&scene=21#wechat_redirect)  
 
-[最具代表性的文本数据集：覆盖32个领域，444个数据集，774.5TB数据量](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247486148&idx=1&sn=6cf9d475da4efa7521cb08f2835b8ad8&chksm=c3546857f423e141806236ba0a96fdc5e5bd16c5ca735361a9f50dbffec57fbdc4a521f7c1b4&scene=21#wechat_redirect)  
-
-  
+[最具代表性的文本数据集：覆盖32个领域，444个数据集，774.5TB数据量](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247486148&idx=1&sn=6cf9d475da4efa7521cb08f2835b8ad8&chksm=c3546857f423e141806236ba0a96fdc5e5bd16c5ca735361a9f50dbffec57fbdc4a521f7c1b4&scene=21#wechat_redirect)

@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "用这个方法，释放生成式AI解决问题的潜力"
+categories: articles
 date: 2024-05-28
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 用这个方法，释放生成式AI解决问题的潜力
 ---
 
 ![](/assets/images/c37611182c06410d9d747ff7a2e5c1fc.png)
@@ -106,5 +109,3 @@ workflows）这一方法，以提高我们的生产力。
   
 
 * * *
-
-

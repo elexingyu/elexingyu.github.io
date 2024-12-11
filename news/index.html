@@ -1,0 +1,67 @@
+---
+layout: default
+title: 新闻中心
+background: '/img/bg-news.jpg'
+---
+
+<!-- Page Header -->
+{% if page.background %}
+<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+  {% else %}
+  <header class="masthead">
+    {% endif %}
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="page-heading">
+            <h1>{{ page.title }}</h1>
+            {% if page.description %}
+            <span class="subheading">{{ page.description }}</span>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+
+        <!-- News Post List -->
+        {% for post in site.posts %}
+          {% if post.categories contains "news" %}
+            <article class="post-preview">
+              <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+                <h2 class="post-title">{{ post.title }}</h2>
+                {% if post.subtitle %}
+                  <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+                {% else %}
+                  <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
+                {% endif %}
+              </a>
+              <p class="post-meta">Posted by
+                {% if post.author %}
+                  {{ post.author }}
+                {% else %}
+                  {{ site.author }}
+                {% endif %}
+                on {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
+              </p>
+            </article>
+            <hr>
+          {% endif %}
+        {% endfor %}
+
+        <!-- Debug section -->
+        <div style="display:none;">
+          {% for post in site.posts %}
+            <p>{{ post.title }} - Collection: {{ post.collection }}</p>
+          {% endfor %}
+        </div>
+
+      </div>
+    </div>
+  </div>
+</code_block_to_apply_changes_from> 

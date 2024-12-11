@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "用AI大模型分析个人财务数据：免费、无需联网且保护数据隐私"
+categories: articles
 date: 2024-07-12
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 用AI大模型分析个人财务数据：免费、无需联网且保护数据隐私
 ---
 
 ![](/assets/images/98d48dce6fad4a39b6539f7d60b60045.png)
@@ -422,4 +425,3 @@ st.write(investment_tips)
 本文需要一定的编程基础。已参加过AI线下工作坊二期的同学，可以使用我们提供的方法，操作更流畅。
 
 了解课程👉[常见问题解答](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247484956&idx=1&sn=da84741808848eafafb9d4d97f47641e&chksm=c354648ff423ed992bb4995172650da7186a7e04f6f7d5442faa28911f15d0f001df2ece8d9a&scene=21#wechat_redirect)
-

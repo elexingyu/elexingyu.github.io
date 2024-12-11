@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "AI生产力快报｜09"
+categories: articles
 date: 2023-12-07
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: AI生产力快报｜09
 ---
 
 ![](/assets/images/b425187918a6453ead6af53d75190642.gif)  
@@ -384,4 +386,3 @@ AI，他们可以左右每个人的观点、文化等等。或许美国政府会
   
 **活水智能**
 致力于通过人工智能提高知识工作者的生产力，作为「AI时代的生产力专家」，我们的核心目标是为用户提供最先进的AI技术和工具，帮助用户更高效、更智能地完成工作。
-

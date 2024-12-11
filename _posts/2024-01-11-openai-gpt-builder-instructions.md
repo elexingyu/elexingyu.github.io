@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "AI生产力快报｜14"
+categories: articles
 date: 2024-01-11
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: AI生产力快报｜14
 ---
-
 
 ![](/assets/images/5805a0c8490945d2b9ba9f8642a68c3d.gif)
 
@@ -328,4 +329,3 @@ FJ 是一位有着四年经验的机器学习工程师，曾在 AI 创业公司�
     
     
     原文：https://medium.com/unintended-purposes/the-future-of-humans-operators-of-ai-244359017575
-

@@ -1,9 +1,13 @@
 ---
-layout: post
-title: "超好用！五分钟内将文本转为图谱，可用于发现实体之间关系和规律，与文本对话"
+categories: ['articles']
 date: 2024-07-17
-tags: ['AI', '知识图谱', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 知识图谱
+- 教程
+title: 超好用！五分钟内将文本转为图谱，可用于发现实体之间关系和规律，与文本对话
 ---
 
 ![](/assets/images/3036a512a2764592b554b7659b66fa32.png)
@@ -189,6 +193,4 @@ GitHub仓库：https://github.com/neo4j-labs/llm-graph-builder
 ## 推荐阅读
 
 [解读 Graph RAG：从大规模文档中发现规律，找到相互关系，速度更快，信息更全面！](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247486198&idx=1&sn=fe870f73635f7e97d576fb81c20befe2&chksm=c3546865f423e173293ec3697258a848a7dff22690a4b9cad0a91abdce7745760d98c5b16281&scene=21#wechat_redirect)[利用AI大模型，将任何文本语料转化为知识图谱，可本地运行！](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485511&idx=1&sn=48398e8c05077a9e202e729771a27452&chksm=c3546ad4f423e3c205211f27169f6861c90450df19ac47518048242f8d11e1d023cefe22c084&scene=21#wechat_redirect)  
-[创建AI助理，可用于快速提取关键信息，与牛人对话等](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247486434&idx=1&sn=b7d8e44602828a832ce604721acfb9c7&chksm=c3546971f423e067ff9c5197dc54ddc1ad992ef635c49637e336721a9950a099ac539e0c32d5&scene=21#wechat_redirect)  
-
-
+[创建AI助理，可用于快速提取关键信息，与牛人对话等](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247486434&idx=1&sn=b7d8e44602828a832ce604721acfb9c7&chksm=c3546971f423e067ff9c5197dc54ddc1ad992ef635c49637e336721a9950a099ac539e0c32d5&scene=21#wechat_redirect)

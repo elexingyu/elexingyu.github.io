@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "AI意识测试专家施奈德：有意识的超级智能，或将剥削人类"
+categories: articles
 date: 2024-06-11
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: AI意识测试专家施奈德：有意识的超级智能，或将剥削人类
 ---
 
 ![](/assets/images/72a0a76e5ac24168879e2b9cb9f51785.png)

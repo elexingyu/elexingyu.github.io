@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "值得一试！这4个网站，提升你的信息获取效率，特别是读论文写文献综述"
+categories: articles
 date: 2024-07-29
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: 值得一试！这4个网站，提升你的信息获取效率，特别是读论文写文献综述
 ---
 
 ![](/assets/images/3be6cda863de4531b1e7376e986c1028.png)

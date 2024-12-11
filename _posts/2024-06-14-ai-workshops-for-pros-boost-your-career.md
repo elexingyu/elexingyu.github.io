@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "提升职场竞争力，他们早已经学这些技能了，还等什么"
+categories: news
 date: 2024-06-14
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 提升职场竞争力，他们早已经学这些技能了，还等什么
 ---
 
 ![](/assets/images/536451ccceb74cb6866bb13b4ffe72c2.png)
@@ -120,4 +123,3 @@ AI体验日 3小时创作2000多首歌
 **新手友好。** 课程体系清晰，让你学习编程有张导航图，不陷入技术细节。
 
 想成为AI时代开发者，开发自己的产品，了解技术底层原理，那就适合参加～
-

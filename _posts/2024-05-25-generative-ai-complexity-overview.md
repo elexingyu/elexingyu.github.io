@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "生成式AI全景图[二]"
+categories: articles
 date: 2024-05-25
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: 生成式AI全景图[二]
 ---
 
 ![](/assets/images/c37a6f618cf243f3aaa123d2123dc466.png)
@@ -170,4 +172,3 @@ AI的环境足迹不仅仅局限于碳排放。数字行业在运行过程中不
 
 
   • [首次公开！我们用42天创造了8个大模型相关产品](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247484889&idx=1&sn=280ec964af5c3cfb05b091fc68c1a859&chksm=c354674af423ee5c56938a47d08685a81e311a36e3b7a6b8e82b6bd5bb5972d1004c7c405abb&scene=21#wechat_redirect)
-

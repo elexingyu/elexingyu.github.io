@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "TED最新演讲｜GithubCEO：AI让编程变得像聊天一样自然，人人都可"
+categories: articles
 date: 2024-05-29
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: TED最新演讲｜GithubCEO：AI让编程变得像聊天一样自然，人人都可
 ---
 
 ![](/assets/images/1191ff73b81747518025722d33155f2e.png)
@@ -203,4 +206,3 @@ BS：完全同意。所以我们将在更高层次上协调这些系统。
   • [最全盘点：人类历史上所有文本数据总量](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485448&idx=1&sn=149c4683bd8d1d2f75b444b900503823&chksm=c3546a9bf423e38dcb031eabe5d3f9002714ac13eb29d741b47d3aecde4ae3a0a88a9ce8232e&scene=21#wechat_redirect)
 
   • [八款产品首次亮相！总有一款适合你](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247484890&idx=1&sn=d5b5c9e561ecc4b291b8bfb69dbfb02c&chksm=c3546749f423ee5ff1018e11939c2361a5f4ab0e7b1f3bc9789db9a11a2661d381c55367eddb&scene=21#wechat_redirect)
-

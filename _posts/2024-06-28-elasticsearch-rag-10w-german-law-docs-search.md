@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "从10万份文档中更快、更准确地找到信息，还能理解语义！试试ElasticSear"
+categories: articles
 date: 2024-06-28
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: 从10万份文档中更快、更准确地找到信息，还能理解语义！试试ElasticSear
 ---
 
 ![](/assets/images/ed56fb68d66c43f0b09662c70462f0e5.png)
@@ -460,6 +462,4 @@ es_connection=es_client,
 
 [最具代表性的文本数据集：覆盖32个领域，444个数据集，774.5TB数据量](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247486148&idx=1&sn=6cf9d475da4efa7521cb08f2835b8ad8&chksm=c3546857f423e141806236ba0a96fdc5e5bd16c5ca735361a9f50dbffec57fbdc4a521f7c1b4&scene=21#wechat_redirect)  
 
-[心理学正在探究 AI 的心智理论](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247486205&idx=1&sn=5aab2ad89e7657952688ac76ae6ef255&chksm=c354686ef423e178cd54716335e2d0e8d0cf1628561b3d46e497ac9b2ad6f576a4ca489029bc&scene=21#wechat_redirect)  
-
-  
+[心理学正在探究 AI 的心智理论](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247486205&idx=1&sn=5aab2ad89e7657952688ac76ae6ef255&chksm=c354686ef423e178cd54716335e2d0e8d0cf1628561b3d46e497ac9b2ad6f576a4ca489029bc&scene=21#wechat_redirect)

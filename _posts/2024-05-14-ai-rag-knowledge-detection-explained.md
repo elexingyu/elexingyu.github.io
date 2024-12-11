@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "AI如何变身知识侦探人人都能懂的RAG科普"
+categories: ['articles']
 date: 2024-05-14
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: AI如何变身知识侦探人人都能懂的RAG科普
 ---
 
 大语言模型（LLMs）因其在自然语言处理（NLP）领域展现出的能力引起广泛关注。与此同时，LLMs
@@ -124,4 +126,3 @@ RAG 技术已经发展出几种不同的范式，包括原生 RAG（NaiveRAG）�
   • [RAG系统是如何工作的？附图及运用场景](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485065&idx=1&sn=b3bb902801311092ba14223464318da9&chksm=c354641af423ed0c52700f29999b3548542d132a565d7159ca3d5c54a9bcf5ac937753394e66&scene=21#wechat_redirect)[](https://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485309&idx=1&sn=2ad2a45d8d8433793c79b2cf29897fed&scene=21#wechat_redirect "哪些工作会被AI取代？分析了500万个自由职业之后，得出四个结论")
 
   • [应对RAG的缺陷！8种你不知道的方式](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485326&idx=1&sn=18055fc0ac952ef3ab28bb161d788e4b&chksm=c354651df423ec0b495937bf28e604bba54cfa407da3a95f51b5445ccddb436cc3370785f9c4&scene=21#wechat_redirect)
-

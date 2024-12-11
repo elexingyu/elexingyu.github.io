@@ -1,11 +1,11 @@
 ---
-
-layout: post  
-title: "5个免费使用Llama 3.1的网站，还可在电脑桌面运行"  
-date: 2024-07-30  
-tags: ['AI']  
-style: huoshui  
-
+categories: articles
+date: 2024-07-30
+layout: post
+style: huoshui
+tags:
+- AI
+title: 5个免费使用Llama 3.1的网站，还可在电脑桌面运行
 ---
 
 ![](/assets/images/563bcde5dc7b4e96a15834fd3d04c5b3.png)

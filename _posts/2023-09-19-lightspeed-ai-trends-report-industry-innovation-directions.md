@@ -1,12 +1,12 @@
 ---
-layout: post
-title: "Lightspeed发布AI公司和人才趋势报告，工信部确定未来产业创新四大"
+categories: articles
 date: 2023-09-19
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: Lightspeed发布AI公司和人才趋势报告，工信部确定未来产业创新四大
 ---
-
-
 
 ![](/assets/images/ceb617623b324f10b7cc6fdb36a3edbb.jpg)
 

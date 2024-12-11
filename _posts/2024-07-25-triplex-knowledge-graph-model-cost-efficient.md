@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "Triplex：用于创建知识图谱的开源模型，成本比GPT-4o低10倍！"
+categories: ['articles']
 date: 2024-07-25
-tags: ['AI', '知识图谱']
+layout: post
 style: huoshui
+tags:
+- AI
+- 知识图谱
+title: Triplex：用于创建知识图谱的开源模型，成本比GPT-4o低10倍！
 ---
 
 ![](/assets/images/5692de5effa246b69e38b435e6562e25.png)

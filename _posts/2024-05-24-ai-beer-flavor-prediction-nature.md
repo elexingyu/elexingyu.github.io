@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "Nature最新研究，AI模型比酿酒师更懂啤酒风味"
+categories: articles
 date: 2024-05-24
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: Nature最新研究，AI模型比酿酒师更懂啤酒风味
 ---
 
 ![](/assets/images/cd484ebb7d3445a8a0c0434e1f176a96.png)
@@ -88,4 +91,3 @@ style: huoshui
   • [用时42天，借助AI大模型，创作者们的产品亮相了](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485306&idx=1&sn=11012a7414b0bc84ea8bf08ab7e122e9&chksm=c35465e9f423ecff178d790b5d45882085dc29aa952e663a81e109fddaca49fc284ae792a795&scene=21#wechat_redirect)
 
   • [活水AI线下工作坊多地举办](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485511&idx=2&sn=1393665aba3f42b8ffa05499df3e344c&chksm=c3546ad4f423e3c26cdaf734c36a8d735aa08e3e187709e234a259beb766dfa55d2c8113c30a&scene=21#wechat_redirect)[](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485448&idx=1&sn=149c4683bd8d1d2f75b444b900503823&chksm=c3546a9bf423e38dcb031eabe5d3f9002714ac13eb29d741b47d3aecde4ae3a0a88a9ce8232e&scene=21#wechat_redirect)
-

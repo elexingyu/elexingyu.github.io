@@ -1,11 +1,13 @@
 ---
-
-layout: post  
-title: "R2R：用文档便捷生成知识图谱，发现信息之间联系，结合AI大模型可本地运行"  
-date: 2024-08-01  
-tags: ['AI', '知识图谱', '教程']  
-style: huoshui  
-
+categories: articles
+date: 2024-08-01
+layout: post
+style: huoshui
+tags:
+- AI
+- 知识图谱
+- 教程
+title: R2R：用文档便捷生成知识图谱，发现信息之间联系，结合AI大模型可本地运行
 ---
 
 ![](/assets/images/a292e4e640c344f6a33b62dec9db10ed.png)
@@ -213,4 +215,3 @@ R2R还可以使用知识图谱代理（Agents）完成更灵活和复杂的查�
 - [解读 Graph RAG：从大规模文档中发现规律，找到相互关系，速度更快，信息更全面！](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247486198&idx=1&sn=fe870f73635f7e97d576fb81c20befe2&chksm=c3546865f423e173293ec3697258a848a7dff22690a4b9cad0a91abdce7745760d98c5b16281&scene=21#wechat_redirect)
 
 - [5个免费使用Llama 3.1的网站，还可在电脑桌面运行](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247486616&idx=1&sn=4ca2042883d3a3b8cff89d53d9d34ac2&chksm=c3546e0bf423e71db181feeb1919e02460b4cb070a9bf98884ed3035eba747bc8c92e1e0bafc&scene=21#wechat_redirect)
-

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Awesome-Chinese-LLM：开源中文大模型资源集合，含各领域微调大"
+categories: ['articles']
 date: 2024-06-08
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: Awesome-Chinese-LLM：开源中文大模型资源集合，含各领域微调大模型
 ---
-
-
 
 ![](/assets/images/42bb7fe82fa244a6b475c81ee3958878.png)
 
@@ -96,7 +97,3 @@ Instruct构建的高质量法律文本问答，提高了通用语言大模型在
 地址：https://github.com/liguodongiot/llm-action
 
 简介：该项目提供了一系列LLM实战的教程和代码，包括LLM的训练、推理、微调以及LLM生态相关的一些技术文章等。
-
-  
-
-  

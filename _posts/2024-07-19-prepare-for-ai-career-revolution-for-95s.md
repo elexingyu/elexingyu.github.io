@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "人工智能席卷职场，你应该趁早做好这五件事"
+categories: news
 date: 2024-07-19
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 人工智能席卷职场，你应该趁早做好这五件事
 ---
 
 ![](/assets/images/411b98513cf945869bed906177253cb5.png)
@@ -115,6 +118,4 @@ Palmer）博士说，这些“软技能”包括积极倾听、同理心和协�
 
 [创建AI助理，可用于快速提取关键信息，与牛人对话等](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247486434&idx=1&sn=b7d8e44602828a832ce604721acfb9c7&chksm=c3546971f423e067ff9c5197dc54ddc1ad992ef635c49637e336721a9950a099ac539e0c32d5&scene=21#wechat_redirect)
 
-[哪些工作会被AI取代？分析了500万个自由职业之后，得出四个结论](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485309&idx=1&sn=2ad2a45d8d8433793c79b2cf29897fed&chksm=c35465eef423ecf810a620b382e194dd5c6da7ca3618f4bf0d980191728e21091cac9f21b913&scene=21#wechat_redirect)  
-
-  
+[哪些工作会被AI取代？分析了500万个自由职业之后，得出四个结论](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485309&idx=1&sn=2ad2a45d8d8433793c79b2cf29897fed&chksm=c35465eef423ecf810a620b382e194dd5c6da7ca3618f4bf0d980191728e21091cac9f21b913&scene=21#wechat_redirect)

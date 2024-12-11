@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "最新演讲！谷歌首席未来学家库兹韦尔：人类智能将提高100万倍，AI正加速攻克医学"
+categories: articles
 date: 2024-06-29
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: 最新演讲！谷歌首席未来学家库兹韦尔：人类智能将提高100万倍，AI正加速攻克医学
 ---
 
 ![](/assets/images/05d957a4779d414a9d4598c009eaf684.png)
@@ -194,5 +196,4 @@ AI正在革新一切。例如，我们只需利用地球上万分之一的阳光
 
 [心理学正在探究 AI 的心智理论](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247486205&idx=1&sn=5aab2ad89e7657952688ac76ae6ef255&chksm=c354686ef423e178cd54716335e2d0e8d0cf1628561b3d46e497ac9b2ad6f576a4ca489029bc&scene=21#wechat_redirect)  
 
-[知识工作者的AI生产力工具箱1.0版。5大领域，20个生产力工具](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247486198&idx=2&sn=6e424dcc567fd199604043106c2a3117&chksm=c3546865f423e1735813058fc71a03a6819fdab6f6587c7cd3c0fb043e2e94f02c853ea51369&scene=21#wechat_redirect)  
-
+[知识工作者的AI生产力工具箱1.0版。5大领域，20个生产力工具](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247486198&idx=2&sn=6e424dcc567fd199604043106c2a3117&chksm=c3546865f423e1735813058fc71a03a6819fdab6f6587c7cd3c0fb043e2e94f02c853ea51369&scene=21#wechat_redirect)

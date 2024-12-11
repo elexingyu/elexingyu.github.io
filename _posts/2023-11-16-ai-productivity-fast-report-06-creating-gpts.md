@@ -1,10 +1,12 @@
 ---
-layout: post
-title: "AI生产力快报｜06"
-date: 2023-11-16
-tags: ['AI']
-style: huoshui
 author: 晓霖
+categories: news
+date: 2023-11-16
+layout: post
+style: huoshui
+tags:
+- AI
+title: AI生产力快报｜06
 ---
 
 ![](/assets/images/bc40d339b83c447abc921b533cc0383d.gif)
@@ -210,7 +212,3 @@ Sebastian 对众包数据集问题持乐观态度，相信 DPO 的崛起将给�
 博客原文： _https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023_
 
 中文翻译： _https://baoyu.io/blog/translations/ai-and-open-source-in-2023_
-
-  
-
-

@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "让AI模仿作家写作风格！3个你不知道的技巧"
+categories: articles
 date: 2024-04-18
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 让AI模仿作家写作风格！3个你不知道的技巧
 ---
 
 作者: by Dan Shipper  
@@ -274,4 +277,3 @@ OpenAI微调指南中缺少两个重要部分。
 推荐阅读
 
 [用AI重塑新闻网站后，我总结了十个AI使用心得](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485004&idx=1&sn=19e003168f8f6280854f83857e3bdb82&chksm=c35464dff423edc98b0cc0274a2665f506f9db9f4fd52250998e34ad91e72b7e6ffae2c910d7&scene=21#wechat_redirect)
-

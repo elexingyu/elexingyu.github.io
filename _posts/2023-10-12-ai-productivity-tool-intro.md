@@ -1,10 +1,12 @@
 ---
-layout: post
-title: "AI生产力快报｜01"
-date: 2023-10-12
-tags: ['AI']
-style: huoshui
 author: 晓霖
+categories: articles
+date: 2023-10-12
+layout: post
+style: huoshui
+tags:
+- AI
+title: AI生产力快报｜01
 ---
 
 ![](/assets/images/4be78224092e43c1bfc76cc8ac4753ce.gif)  
@@ -866,4 +868,3 @@ whttps://mp.weixin.qq.com/s/yMZ-
 Skk6mEa4tQPkHDtFTghttps://nlpnewsletter.substack.com/p/do-lms-represent-space-
 and-
 timehttps://weibo.com/1727858283/NkBE37ADxhttps://weibo.com/1727858283/NlsDSpPaahttps://weibo.com/1727858283/NlOJfdAkxhttps://weibo.com/1727858283/NeVrw01Yh![](/assets/images/7a2536649ab74508ad4b2a84892032a1.png)
-

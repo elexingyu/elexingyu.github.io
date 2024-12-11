@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "八款产品首次亮相！总有一款适合你"
+categories: news
 date: 2024-02-05
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: 八款产品首次亮相！总有一款适合你
 ---
 
 这是一个值得纪念的时刻！

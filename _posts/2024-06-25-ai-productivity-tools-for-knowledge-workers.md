@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "知识工作者的AI生产力工具箱1.0版。5大领域，20个生产力工具"
+categories: ['articles']
 date: 2024-06-25
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 知识工作者的AI生产力工具箱1.0版。5大领域，20个生产力工具
 ---
 
 ![](/assets/images/d8f4ba6d82bf44b69d398076301097fd.png)  

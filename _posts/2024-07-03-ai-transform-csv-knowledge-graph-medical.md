@@ -1,9 +1,13 @@
 ---
-layout: post
-title: "用AI大模型将CSV文件转为图谱，发现数据间关系，以健康医疗场景为例"
+categories: ['articles']
 date: 2024-07-03
-tags: ['AI', '知识图谱', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 知识图谱
+- 教程
+title: 用AI大模型将CSV文件转为图谱，发现数据间关系，以健康医疗场景为例
 ---
 
 ![](/assets/images/2746659ca90f48d9ab3cf623fd8b79a3.png)

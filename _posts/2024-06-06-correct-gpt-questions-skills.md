@@ -1,11 +1,13 @@
 ---
-layout: post
-title: "如何正确地向GPT提问"
+categories: articles
 date: 2024-06-06
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 如何正确地向GPT提问
 ---
-
 
 ![](/assets/images/4bec2b57e0014e778343338851d8fc17.png)
 
@@ -87,5 +89,3 @@ Jobs）或我们能想到的其他人。
 也会努力回答，且答案看上去格式工整，但那很可能是格式完美的错误答案。■
 
 **文章摘自：方军/柯洲/谭星星《成为提问工程师》，人民邮电出版社。**
-
-  

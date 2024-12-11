@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "AI生产力快报｜08"
-date: 2023-11-30
-tags: ['AI']
-style: huoshui
 author: 晓霖
+categories: news
+date: 2023-11-30
+layout: post
+style: huoshui
+tags:
+- AI
+title: AI生产力快报｜08
 ---
-
 
 ![](/assets/images/495d4aed99ec4a0ba7b804fd3d790648.gif)
 
@@ -353,4 +354,3 @@ Language Models” Video_ 这篇文章整理的阅读清单，进一步了解视
   
 **活水智能**
 致力于通过人工智能提高知识工作者的生产力，作为「AI时代的生产力专家」，我们的核心目标是为用户提供最先进的AI技术和工具，帮助用户更高效、更智能地完成工作。
-

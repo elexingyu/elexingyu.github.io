@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "图解向量索引及其常见技术｜大模型相关技术科普"
+categories: ['articles']
 date: 2024-06-15
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: 图解向量索引及其常见技术｜大模型相关技术科普
 ---
-
 
 ![](/assets/images/dbb9fba846cf40168efae14bd8080f0a.png)
 
@@ -202,5 +203,4 @@ MyScale通过独特的MSTG算法优化过滤向量搜索，为复杂的大规模
 [提示工程 vs 微调 vs RAG？终于讲明白了](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247484977&idx=1&sn=e5e4bcc108c8cf6f01dcc305c84fd6ed&chksm=c35464a2f423edb46defe0a8340c82f945a29fbabe851f024a6b13e171ae41f6703f3c3a1a07&scene=21#wechat_redirect) 
 
 
-[用AI咨询情感问题，代替不了这种关系](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485705&idx=1&sn=6b1ba5f9cb41f6708461915a70c7a8fe&chksm=c3546b9af423e28cb57d8a0ae8ff8ea3e45c3e9031e39ed2e31736d5d461ce107e9307346c82&scene=21#wechat_redirect)  
-
+[用AI咨询情感问题，代替不了这种关系](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485705&idx=1&sn=6b1ba5f9cb41f6708461915a70c7a8fe&chksm=c3546b9af423e28cb57d8a0ae8ff8ea3e45c3e9031e39ed2e31736d5d461ce107e9307346c82&scene=21#wechat_redirect)

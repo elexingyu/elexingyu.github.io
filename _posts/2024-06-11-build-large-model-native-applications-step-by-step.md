@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "如何一步一步构建大模型原生运用我用2年时间，总结了这套方法！"
+categories: ['articles']
 date: 2024-06-11
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 如何一步一步构建大模型原生运用我用2年时间，总结了这套方法！
 ---
-
-
 
 ![](/assets/images/dbef766f49ed4a8382004dfed3599346.png)
 
@@ -295,4 +296,3 @@ young, adventurous tourists. ```
 email：almog.baku@gmail.com
 
 LinkedIn：@Almog Baku (vi/vim)
-

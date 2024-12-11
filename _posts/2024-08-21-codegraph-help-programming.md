@@ -1,9 +1,13 @@
 ---
-layout: post
-title: "代码图[codegraph]如何帮助编程"
+categories: ['articles']
 date: 2024-08-21
-tags: ['AI', '知识图谱', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 知识图谱
+- 教程
+title: 代码图[codegraph]如何帮助编程
 ---
 
 > 之前有AI编程课的同学提问，如果临时接手一个中型或大型的代码仓库，该从哪入手？今天这篇文章推荐给有类似问题的同学。我们可以构建代码图（code

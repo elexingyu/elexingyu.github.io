@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "无代码解决方案AutoTrain：在你的电脑上轻松微调Phi-3模型"
+categories: ['articles']
 date: 2024-05-02
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 无代码解决方案AutoTrain：在你的电脑上轻松微调Phi-3模型
 ---
 
 作者：Abhishek Thakur  
@@ -161,4 +164,3 @@ advanced)。
   • [AI21 Labs 实践经验：让大模型从“新奇玩具”到生产力工具](https://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485147&idx=1&sn=0028ada5db0a1dfd8b2dafa9616bee4d&scene=21#wechat_redirect "AI21 Labs 实践经验：让大模型从“新奇玩具”到生产力工具")
 
   • [微软推出 Phi-3 Mini！性能超过两倍大小的模型](https://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485168&idx=1&sn=e5dc118ed7d30c02ddc1b85ce9e59d86&scene=21#wechat_redirect "微软推出 Phi-3 Mini！性能超过两倍大小的模型")
-

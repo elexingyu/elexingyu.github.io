@@ -1,10 +1,12 @@
 ---
-layout: post
-title: "AI生产力快报｜07"
-date: 2023-11-23
-tags: ['AI']
-style: huoshui
 author: 晓霖
+categories: articles
+date: 2023-11-23
+layout: post
+style: huoshui
+tags:
+- AI
+title: AI生产力快报｜07
 ---
 
 ![](/assets/images/8c274b9537b346fabf1660f9df883357.gif)
@@ -287,5 +289,3 @@ https://github.blog/2023-11-08-the-state-of-open-source-and-ai/
 
 https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-
 accurate-global-weather-forecasting/
-
-

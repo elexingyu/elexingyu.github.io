@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "AI21Labs实践经验：让大模型从“新奇玩具”到生产力工具"
+categories: ['articles']
 date: 2024-04-23
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: AI21Labs实践经验：让大模型从“新奇玩具”到生产力工具
 ---
 
 来源：A121 Labs
@@ -175,4 +178,3 @@ Models，TSM）是解决之道。TSM是优化后的小模型，经过训练在�
 尽管TSM是为特定项目明确的需求而构建的，但它们的架构允许在组织内不同领域部署多个TSM。
 
 这意味着，一旦您开发出实施一个TSM的流程，就可以高效地应用到其他集成中去。
-

@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "AI生产力快报｜10"
+categories: articles
 date: 2023-12-14
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: AI生产力快报｜10
 ---
 
 ![](/assets/images/0423234d473b42a19fad709e519c5f5e.gif)
@@ -420,4 +422,3 @@ Gemini Pro。
   
 **活水智能**
 致力于通过人工智能提高知识工作者的生产力，作为「AI时代的生产力专家」，我们的核心目标是为用户提供最先进的AI技术和工具，帮助用户更高效、更智能地完成工作。
-

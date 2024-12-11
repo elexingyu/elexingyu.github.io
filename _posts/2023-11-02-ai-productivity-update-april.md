@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "AI生产力快报｜04"
-date: 2023-11-02
-tags: ['AI']
-style: huoshui
 author: 晓霖
+categories: articles
+date: 2023-11-02
+layout: post
+style: huoshui
+tags:
+- AI
+title: AI生产力快报｜04
 ---
-
 
 ![](/assets/images/03a96cfda1bb4389bd3ea8777bfb991b.gif)
 

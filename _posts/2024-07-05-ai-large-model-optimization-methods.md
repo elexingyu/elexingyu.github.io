@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "使用AI大模型的正确姿势！接入知识库、微调，5种方法，总有一种适合你"
+categories: articles
 date: 2024-07-05
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 使用AI大模型的正确姿势！接入知识库、微调，5种方法，总有一种适合你
 ---
 
 ![](/assets/images/64f1e6620fc646c0a0fd0cc16b38c266.png)
@@ -183,5 +186,3 @@ GPT-4V展示的多模态使用例子
 手把手教学，北京、上海、杭州、广州、深圳、重庆、成都均可线下上课。
 
 课程常见问题见：[AI线下工作坊常见问题解答](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247484956&idx=1&sn=da84741808848eafafb9d4d97f47641e&chksm=c354648ff423ed992bb4995172650da7186a7e04f6f7d5442faa28911f15d0f001df2ece8d9a&scene=21#wechat_redirect)。
-
-

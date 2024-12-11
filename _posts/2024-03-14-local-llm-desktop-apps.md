@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "50+开源仓库！让你在本地轻松运行大模型"
+categories: articles
 date: 2024-03-14
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: 50+开源仓库！让你在本地轻松运行大模型
 ---
 
 > 作者：Vince Lam 编译：Gavin
@@ -214,6 +216,3 @@ https://www.reddit.com/r/LocalLLaMA/
 * 本文由活水智能编译，转载请注明出处
 
 微信公众号后台回复「大模型」，即可获取50+本地轻量级运行大模型的完整列表。
-
-  
-

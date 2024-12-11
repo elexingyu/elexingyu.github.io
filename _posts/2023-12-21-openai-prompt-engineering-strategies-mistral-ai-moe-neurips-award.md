@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "AI生产力快报｜11"
+categories: articles
 date: 2023-12-21
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: AI生产力快报｜11
 ---
-
 
 ![](/assets/images/b192cd858f0b452f8db9b2a0b00f2fc8.gif)
 
@@ -370,4 +371,3 @@ Hoffman）对话多位人工智能领域专家，深入探讨了人工智能可�
     
     
     https://www.36kr.com/p/2523219973449217
-

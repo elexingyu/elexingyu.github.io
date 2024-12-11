@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "AI生产力快报｜05"
-date: 2023-11-09
-tags: ['AI']
-style: huoshui
 author: 晓霖
+categories: articles
+date: 2023-11-09
+layout: post
+style: huoshui
+tags:
+- AI
+title: AI生产力快报｜05
 ---
-
 
 ![](/assets/images/459167ac2e224c43bce5d4392ebdbe8f.gif)
 
@@ -297,6 +298,3 @@ https://mp.weixin.qq.com/s/7uowRd_V0Ze54VBbuMmynQ
 
 **活水智能**
 是一家致力于通过人工智能提高知识工作者的生产力的公司，作为「AI时代的生产力专家」，活水智能的核心目标是为用户提供最先进的AI技术和工具，帮助他们更高效、更智能地完成工作。
-
-
-

@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "AI绘画大模型太多怎么选深度解析5个最好的文生图开源大模型"
+categories: ['articles']
 date: 2024-05-21
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: AI绘画大模型太多怎么选？深度解析5个最好的文生图开源大模型
 ---
 
 ![](/assets/images/130618f866394da0a742f6dd0a21c79b.png)
@@ -245,5 +248,3 @@ cases/diffusion-
 models/index.html?_gl=1*4yfc61*_gcl_au*NzQ5NTUxMTE5LjE3MTMxODM1Mjk.
 
 **声明：本文为活水智能编译，未经许可禁止转载。**
-
-

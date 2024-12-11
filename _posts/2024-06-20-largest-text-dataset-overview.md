@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "最具代表性的文本数据集：覆盖32个领域，444个数据集，774.5TB数据量"
+categories: articles
 date: 2024-06-20
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: 最具代表性的文本数据集：覆盖32个领域，444个数据集，774.5TB数据量
 ---
-
 
 AI大模型在各领域展现出了巨大潜力。这些模型的性能在很大程度上依赖于训练和测试所使用的数据集。
 
@@ -102,5 +103,3 @@ AI大模型在各领域展现出了巨大潜力。这些模型的性能在很大
 [开源中文大模型资源集合，含各领域微调大模型、数据集及教程](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485932&idx=1&sn=ada0616870e7711d308a473835468792&chksm=c3546b7ff423e269500714b04ed8c38bbf1f155fe375d543ad3fbde494af4d79a93e44c70c6c&scene=21#wechat_redirect)  
 
 [Graph Maker：轻松使用开源大模型将文本转为知识图谱，发现新知识！](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485901&idx=1&sn=0dbf87ae6cd841e826126cf2c3b99be0&chksm=c3546b5ef423e24889d10b4a9ee88655b6bf60e22b69596be5600ef28db3ef5433e4ca1edfc5&scene=21#wechat_redirect)
-
-  

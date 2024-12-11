@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "生成式AI全景图[一]"
+categories: articles
 date: 2024-05-24
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: 生成式AI全景图[一]
 ---
 
 ![](/assets/images/6cb5f810e8f841f09ce3a406e821f67c.png)
@@ -182,4 +184,3 @@ style: huoshui
   • [活水AI线下工作坊多地举办](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485511&idx=2&sn=1393665aba3f42b8ffa05499df3e344c&chksm=c3546ad4f423e3c26cdaf734c36a8d735aa08e3e187709e234a259beb766dfa55d2c8113c30a&scene=21#wechat_redirect)
 
   • [最全盘点：人类历史上所有文本数据总量](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485448&idx=1&sn=149c4683bd8d1d2f75b444b900503823&chksm=c3546a9bf423e38dcb031eabe5d3f9002714ac13eb29d741b47d3aecde4ae3a0a88a9ce8232e&scene=21#wechat_redirect)
-

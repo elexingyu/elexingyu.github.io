@@ -1,12 +1,14 @@
 ---
-layout: post
-title: "GraphMaker：轻松使用开源大模型将文本转为知识图谱，发现新知识！"
+categories: articles
 date: 2024-06-06
-tags: ['AI', '知识图谱', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 知识图谱
+- 教程
+title: GraphMaker：轻松使用开源大模型将文本转为知识图谱，发现新知识！
 ---
-
-
 
 ![](/assets/images/356208794d8c455a87131227864e3a71.png)
 
@@ -292,5 +294,3 @@ Graph Maker 的仓库见：https://github.com/rahulnyk/graph_maker
   * • [微软RecAI：用AI升级你的推荐系统](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485449&idx=1&sn=ec32a57bccd1f909174ba97f1f96fdc0&chksm=c3546a9af423e38ca69de52619fa019849076e9bde46e261d406a1c8af23818aa80ded6f281c&scene=21#wechat_redirect)
 
   * [• ](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485306&idx=1&sn=11012a7414b0bc84ea8bf08ab7e122e9&chksm=c35465e9f423ecff178d790b5d45882085dc29aa952e663a81e109fddaca49fc284ae792a795&scene=21#wechat_redirect)[Nature最新研究，AI模型比酿酒师更懂啤酒风味](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485590&idx=1&sn=9f00db453841c95bd21f967fd4f31514&chksm=c3546a05f423e313dbfce7977d231c1092d580550132b2c2bd8bc82d6002c00db370ded470a4&scene=21#wechat_redirect)
-
-  

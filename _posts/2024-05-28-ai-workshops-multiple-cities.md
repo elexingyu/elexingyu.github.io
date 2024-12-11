@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "精彩继续！活水AI线下工作坊多地举办"
+categories: news
 date: 2024-05-28
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: 精彩继续！活水AI线下工作坊多地举办
 ---
 
 ![](/assets/images/d40d01725b0545e491b55b5f67911d16.png)

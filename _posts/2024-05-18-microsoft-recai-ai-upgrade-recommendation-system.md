@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "微软RecAI：用AI升级你的推荐系统"
+categories: articles
 date: 2024-05-18
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 微软RecAI：用AI升级你的推荐系统
 ---
 
 > 推荐系统无处不在，它就像我们的私人助理，帮助我们从海量的信息中筛选出感兴趣的内容。然而传统的推荐系统往往缺乏互动性、透明度和可控性。
@@ -53,4 +56,3 @@ RecAI 通过整合大型语言模型来增强推荐系统的交互性、解释�
   • [最全盘点：人类历史上所有文本数据总量](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485448&idx=1&sn=149c4683bd8d1d2f75b444b900503823&chksm=c3546a9bf423e38dcb031eabe5d3f9002714ac13eb29d741b47d3aecde4ae3a0a88a9ce8232e&scene=21#wechat_redirect)[](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247484977&idx=1&sn=e5e4bcc108c8cf6f01dcc305c84fd6ed&chksm=c35464a2f423edb46defe0a8340c82f945a29fbabe851f024a6b13e171ae41f6703f3c3a1a07&scene=21#wechat_redirect)
 
   • [用时42天，借助AI大模型，创作者们的产品亮相了](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485306&idx=1&sn=11012a7414b0bc84ea8bf08ab7e122e9&chksm=c35465e9f423ecff178d790b5d45882085dc29aa952e663a81e109fddaca49fc284ae792a795&scene=21#wechat_redirect)
-

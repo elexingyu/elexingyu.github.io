@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "如何提高RAG系统准确率？12大常见痛点及巧妙解！"
+title: 如何提高RAG系统准确率？12大常见痛点及巧妙解！
 date: 2024-11-23
 author: 活水智能
+categories: ['articles']
 tags: ['AI', '知识图谱']
 style: huoshui
 ---

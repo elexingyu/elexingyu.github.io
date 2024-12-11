@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "「你的AI生产力」线下工作坊常见问题解答"
+categories: news
 date: 2024-03-28
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 「你的AI生产力」线下工作坊常见问题解答
 ---
 
 ![](/assets/images/edfd9e9902124ae0912db76cd39dfff8.jpg)
@@ -83,4 +86,3 @@ style: huoshui
 你可以选择报名首期、联报三期、联报四期、联报五期。
 
 想要报名吗？点击网页下方，联系我们！
-

@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "AI在手，工作我有：如何让AI成为你的求职超级助手"
+categories: articles
 date: 2024-05-31
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: AI在手，工作我有：如何让AI成为你的求职超级助手
 ---
 
 ![](/assets/images/1f4b4751910042e9bc424a51b509b8c3.png)
@@ -92,5 +94,3 @@ AI从未参加过面试，因此我们也建议查阅实际领域专家的建议
   
 
 * * *
-
-

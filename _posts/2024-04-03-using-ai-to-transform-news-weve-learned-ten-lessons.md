@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "用AI重塑新闻网站后，我总结了十个AI使用心得"
+categories: articles
 date: 2024-04-03
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 用AI重塑新闻网站后，我总结了十个AI使用心得
 ---
 
 作者：Matthew Conlen
@@ -163,5 +166,4 @@ GPT-4等大模型默认的写作风格可能较为平淡。可以通过创意指
  _**原文：** https://generative-ai-newsroom.com/we-built-a-news-site-powered-by-
 llms-and-public-data-heres-what-we-learned-aba6c52a7ee4_
 
-* 本文由活水智能编译，转载请注明出处  
-
+* 本文由活水智能编译，转载请注明出处

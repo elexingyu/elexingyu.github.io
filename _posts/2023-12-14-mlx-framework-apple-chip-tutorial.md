@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "活水教程｜MLX框架使用案例"
+categories: articles
 date: 2023-12-14
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 活水教程｜MLX框架使用案例
 ---
 
 ## 前 言
@@ -251,6 +254,3 @@ explore.github.io/mlx/build/html/install.html。
     • https://github.com/ml-explore/mlx  
     • https://github.com/ml-explore/mlx-examples  
     • https://github.com/ml-explore/mlx/issues/12
-
-
-

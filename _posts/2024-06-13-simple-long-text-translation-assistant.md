@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "智能翻译助手：让长文本翻译、专业术语和方言翻译变得更简单！[附PDF翻译工具]"
+categories: articles
 date: 2024-06-13
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 智能翻译助手：让长文本翻译、专业术语和方言翻译变得更简单！[附PDF翻译工具]
 ---
-
-
 
 ![](/assets/images/abfe205af61c40c68e8b17797f5b6e5a.png)  
 
@@ -132,5 +133,3 @@ style: huoshui
 支持文档翻译、网页翻译、视频字幕翻译。点击「文档翻译」，上传文档即可开始翻译。免费版限额3次。
 
 ![](/assets/images/c488147967a84c009b59298b6ad129ab.png)
-
- 

@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "12个常用的文本写作及文本分析提示词，让你效率翻倍"
+categories: ['articles']
 date: 2024-07-13
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 12个常用的文本写作及文本分析提示词，让你效率翻倍
 ---
 
 ![](/assets/images/01f563df705d4650881772576cc634d8.png)
@@ -114,5 +117,3 @@ ChatGPT等AI大模型具有强悍的文本分析、文本理解和写作能力�
 [如何正确地向GPT提问？](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485901&idx=2&sn=13bfc54c73858634675dfe333e08522a&chksm=c3546b5ef423e248878e431dfa265dab2431838d7ac1fe02c4e2e6650c88990b791a05a162aa&scene=21#wechat_redirect)
 
 [用AI大模型分析个人收支，免费、无需联网且保护数据隐私](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247486406&idx=1&sn=9530c4d158c1f279a6c7be644ef7e007&chksm=c3546955f423e0437ee0872f836eb04fe87e393e631900ef87cc6c78a6cc7aa87096a28b18c5&scene=21#wechat_redirect)
-
-  

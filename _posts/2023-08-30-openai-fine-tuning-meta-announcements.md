@@ -1,12 +1,12 @@
 ---
-layout: post
-title: "OpenAI推出微调服务，Meta疯狂输出…｜微调特刊"
+categories: articles
 date: 2023-08-30
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: OpenAI推出微调服务，Meta疯狂输出…｜微调特刊
 ---
-
-
 
 ![](/assets/images/956e6d9643184ff4a98a92defb62e51f.jpg)
 
@@ -199,5 +199,3 @@ Python 3.8 以上版本，并可通过 PIP 进行安装。项目提供了多种�
 **👇 加入知识星球，一起玩转GPT！**
 
 ![](/assets/images/2375836909bb40ebbcad675347f146d8.jpg)
-
-

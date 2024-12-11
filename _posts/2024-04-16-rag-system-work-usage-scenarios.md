@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "RAG系统是如何工作附图及运用场景"
+categories: ['articles']
 date: 2024-04-16
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: RAG系统是如何工作附图及运用场景
 ---
 
 作者：myscale  
@@ -96,4 +98,3 @@ RAG是通过将知识库附加到大模型，以提升大模型能力的技术�
 在响应用户查询时使用外部数据源，尤其是在处理客观事实、最新或定期更新的数据时，可以提供更准确和及时的响应。尽管RAG系统有很多优点，但也有自身的局限性。
 
 MyScale等向量数据库公司，为大规模、复杂的RAG应用提供了解决方案。这些数据库专为AI应用设计，考虑了成本、可扩展性在内的所有因素。此外，还可以与LangChain和LlamaIndex等AI框架集成。
-

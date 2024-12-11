@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "ChatGPT推出企业版，Google全面布局，首批国产大模型获批备案…"
+categories: articles
 date: 2023-09-04
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: ChatGPT推出企业版，Google全面布局，首批国产大模型获批备案…
 ---
-
 
 ![](/assets/images/eb182afb330c4b89917d2f295893226d.jpg)
 
@@ -181,6 +182,3 @@ B 站链接（中文字幕）：https://www.bilibili.com/video/BV14h4y1m7aE/?sha
 **👇 加入知识星球，一起玩转GPT！**
 
 ![](/assets/images/de0781e37fb34ef7936a34ea4320639b.jpg)
-
-
-

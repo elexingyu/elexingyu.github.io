@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "42Share邀你畅游40万智慧对话的海洋"
+categories: news
 date: 2023-08-07
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: 42Share邀你畅游40万智慧对话的海洋
 ---
 
 ![](/assets/images/c7a13f1295314d0e9e1e78b25e7e53f5.png)
@@ -106,8 +108,3 @@ Cookie」或「在无痕模式下阻止第三方Cookie」都可以。完成设�
 > 分享广场：https://42share.com/share  
 > 插件安装：https://42share.com/plugin  
 >
-
-  
-
-  
-

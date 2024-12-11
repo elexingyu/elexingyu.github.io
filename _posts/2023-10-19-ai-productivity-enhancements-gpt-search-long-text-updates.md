@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "AI生产力快报｜02"
+categories: articles
 date: 2023-10-19
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: AI生产力快报｜02
 ---
-
 
 ![](/assets/images/ee57c64bb1d54e1ab518f1bb7eb21898.gif)
 

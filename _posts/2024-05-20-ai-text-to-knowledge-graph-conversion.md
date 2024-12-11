@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "利用AI大模型，将任何文本语料转化为知识图谱，可本地运行！"
+categories: articles
 date: 2024-05-20
-tags: ['AI', '知识图谱']
+layout: post
 style: huoshui
+tags:
+- AI
+- 知识图谱
+title: 利用AI大模型，将任何文本语料转化为知识图谱，可本地运行！
 ---
 
 作者：Rahul Nayak
@@ -251,8 +254,3 @@ Address Human Resource Challenges in Healthcare. Cureus 15(6): e40274. DOI
 
 Pyvis库介绍：https://towardsdatascience.com/pyvis-visualize-interactive-network-
 graphs-in-python-77e059791f01
-
-
-
-  
-

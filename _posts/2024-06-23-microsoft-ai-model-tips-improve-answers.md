@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "微软：9个提示词技巧，让AI大模型高质量回答你的问题！"
+categories: articles
 date: 2024-06-23
-tags: ['教程']
+layout: post
 style: huoshui
+tags:
+- 教程
+title: 微软：9个提示词技巧，让AI大模型高质量回答你的问题！
 ---
 
 ![](/assets/images/50a6c82a109d465a85b64091cb0e1179.png)

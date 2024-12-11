@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "教程｜用大量文档创建AI助理，可用于快速提取关键信息，学习名人思想等"
+categories: articles
 date: 2024-07-15
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 教程｜用大量文档创建AI助理，可用于快速提取关键信息，学习名人思想等
 ---
 
 ![](/assets/images/9ecf21218b2149ef84b26a20588fcb07.png)  

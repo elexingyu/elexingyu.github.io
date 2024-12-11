@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "用AI大模型发现你不知道自己不知道的信息，以开源情报分析为例"
+categories: articles
 date: 2024-07-09
-tags: ['AI', '知识图谱']
+layout: post
 style: huoshui
+tags:
+- AI
+- 知识图谱
+title: 用AI大模型发现你不知道自己不知道的信息，以开源情报分析为例
 ---
 
 ![](/assets/images/7749981b91dd45f4b7abe6a7106f135d.png)
@@ -135,4 +138,3 @@ AI大模型不仅改变了开源情报分析现有工作流程，还将彻底改
 [用AI大模型将CSV文件转为图谱，发现数据间关系，以健康医疗场景为例](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247486281&idx=1&sn=661c5de2ac71fa2be64c457a3f51af15&chksm=c35469daf423e0cc578cb673e4189acaa15d78a19b7e95a9e2784150a7524304cdc3d878209f&scene=21#wechat_redirect)  
 
 [Graph Maker：轻松使用开源大模型将文本转为知识图谱，发现新知识](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485901&idx=1&sn=0dbf87ae6cd841e826126cf2c3b99be0&chksm=c3546b5ef423e24889d10b4a9ee88655b6bf60e22b69596be5600ef28db3ef5433e4ca1edfc5&scene=21#wechat_redirect)
-

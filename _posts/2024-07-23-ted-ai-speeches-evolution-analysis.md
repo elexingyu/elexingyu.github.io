@@ -1,9 +1,13 @@
 ---
-layout: post
-title: "分析了TED上AI相关的550个视频，我得出了这些结论…"
+categories: articles
 date: 2024-07-23
-tags: ['AI', '知识图谱', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 知识图谱
+- 教程
+title: 分析了TED上AI相关的550个视频，我得出了这些结论…
 ---
 
 ![](/assets/images/df0d30cec8504422808ce45bc4f6dee5.png)  

@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "ToT、IO、CoT与CoT-SC，提高你向GPT提问的能力"
+categories: articles
 date: 2024-05-25
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: ToT、IO、CoT与CoT-SC，提高你向GPT提问的能力
 ---
 
 ![](/assets/images/09573dbe209f429b885e4ae69339984a.png)
@@ -236,6 +239,3 @@ https://arxiv.org/abs/2305.10601
 
 
 * * *
-
-  
-

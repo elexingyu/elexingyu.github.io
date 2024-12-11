@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "如何提高AI大模型回答问题的质量试试这份提示工程技巧速查清单"
+categories: articles
 date: 2024-06-01
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 如何提高AI大模型回答问题的质量试试这份提示工程技巧速查清单
 ---
-
-
 
 ![](/assets/images/4f047d71ea7745768ef96b06a73cfae3.png)
 
@@ -360,4 +361,3 @@ Yanick：现在，我们继续下一个问题。你能告诉我植物需要哪�
   * • [Auto-CoT：自动生成推理链，推理性能与人工介入设计思维链相当](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485546&idx=1&sn=09ab4987f41a9f04baf9a06f1dd3cf9b&chksm=c3546af9f423e3ef7234cde45534885e7c19120a8e201a260d8e212386e79a2e6b6737968292&scene=21#wechat_redirect)
 
   * [• ](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485306&idx=1&sn=11012a7414b0bc84ea8bf08ab7e122e9&chksm=c35465e9f423ecff178d790b5d45882085dc29aa952e663a81e109fddaca49fc284ae792a795&scene=21#wechat_redirect)[赠书｜《成为提问工程师》](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485640&idx=1&sn=0a086ea0e6f3561380afbf684083d812&chksm=c3546a5bf423e34d28ab2118a4f2c8908a54b7b961f412321113e2ef33fccf550f95e7b8c86b&scene=21#wechat_redirect)
-

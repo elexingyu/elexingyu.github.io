@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "Pydantic+AI大模型：从非结构化数据中提取关键信息，以财务报表为例"
+categories: articles
 date: 2024-07-11
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: Pydantic+AI大模型：从非结构化数据中提取关键信息，以财务报表为例
 ---
 
 ![](/assets/images/a62240b378c0415088a90fcb9aaedacd.png)

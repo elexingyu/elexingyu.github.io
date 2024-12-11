@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "提示工程vs微调vsRAG终于讲明白了"
+categories: articles
 date: 2024-04-01
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 提示工程vs微调vsRAG终于讲明白了
 ---
 
 作者：Myscale原文：https://myscale.com/blog/prompt-engineering-vs-finetuning-vs-rag/  
@@ -106,5 +109,3 @@ _大模型训练流程及四个关键要素：https://www.run.ai/guides/machine-
 training_  
 
 * 本文由活水智能编译，转载请注明出处
-
-

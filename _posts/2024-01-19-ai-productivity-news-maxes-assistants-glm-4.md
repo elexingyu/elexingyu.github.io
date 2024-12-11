@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "AI生产力快报｜15"
+categories: articles
 date: 2024-01-19
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: AI生产力快报｜15
 ---
-
 
 ![](/assets/images/fe8d805430f8410c9220a7bbc55123dd.gif)
 
@@ -345,4 +346,3 @@ AIGC 技术的深度融合。
     
     
     深度对话：https://mp.weixin.qq.com/s/RoJoCF_wpnaKsbbSLwieag
-

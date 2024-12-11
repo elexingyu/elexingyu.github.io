@@ -1,9 +1,13 @@
 ---
-layout: post
-title: "解读GraphRAG：从大规模文档中发现规律，找到相互关系，速度更快，信息更"
+categories: ['articles']
 date: 2024-06-25
-tags: ['AI', '知识图谱', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 知识图谱
+- 教程
+title: 解读GraphRAG：从大规模文档中发现规律，找到相互关系，速度更快，信息更全
 ---
 
 ![](/assets/images/dbfbb88dac9246a29de698f53c17a680.png)

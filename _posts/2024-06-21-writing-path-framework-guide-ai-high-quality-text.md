@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "用写作路径框架，五步引导AI大模型写出高质量文本"
+categories: articles
 date: 2024-06-21
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 用写作路径框架，五步引导AI大模型写出高质量文本
 ---
 
 ![](/assets/images/23d636b3006d4702a5b3f41e0dac24ce.png)
@@ -131,4 +134,3 @@ AI通过搜索功能，搜集与你的主题相关的信息和关键词，为大
 [开源中文大模型资源集合，含各领域微调大模型、数据集及教程](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485932&idx=1&sn=ada0616870e7711d308a473835468792&chksm=c3546b7ff423e269500714b04ed8c38bbf1f155fe375d543ad3fbde494af4d79a93e44c70c6c&scene=21#wechat_redirect)  
 
 [Graph Maker：轻松使用开源大模型将文本转为知识图谱，发现新知识！](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485901&idx=1&sn=0dbf87ae6cd841e826126cf2c3b99be0&chksm=c3546b5ef423e24889d10b4a9ee88655b6bf60e22b69596be5600ef28db3ef5433e4ca1edfc5&scene=21#wechat_redirect)
-

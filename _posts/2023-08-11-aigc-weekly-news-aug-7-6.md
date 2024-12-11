@@ -1,11 +1,12 @@
 ---
-layout: post
-title: "AIGC每周观察[0731-0806]"
+categories: articles
 date: 2023-08-11
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: AIGC每周观察[0731-0806]
 ---
-
 
 ![](/assets/images/33fb7b35841c431f9d9843442ba54a5f.jpg)
 ​
@@ -127,5 +128,3 @@ Agents新功能，这类服务从第五层开始，降低了开发门槛。全�
 在Agent领域，亚马逊云科技如何利用其技术和资源优势持续发力？
 
 ![](/assets/images/ac7d51bbd6314aecb1830260557e7324.png)
-
-

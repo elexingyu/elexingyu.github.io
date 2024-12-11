@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "FineWeb：HuggingFace开源的15T超大数据集"
+categories: articles
 date: 2024-04-27
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: FineWeb：HuggingFace开源的15T超大数据集
 ---
 
 在人工智能时代，数据如同新石油，为语言模型这个强大引擎提供动能。Hugging Face 发布的FineWeb就是一个超大规模的英文网页数据集。
@@ -98,6 +100,3 @@ Face刻意避免使用基于与“黄金”来源（例如维基百科或毒性�
   
 
 项目地址：https://huggingface.co/datasets/HuggingFaceFW/fineweb
-
-  
-

@@ -1,9 +1,13 @@
 ---
-layout: post
-title: "利用LLM构建非结构化文本的知识图谱"
+categories: ['articles']
 date: 2024-08-15
-tags: ['AI', '知识图谱', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 知识图谱
+- 教程
+title: 利用LLM构建非结构化文本的知识图谱
 ---
 
 来源：Noah Mayerhofer

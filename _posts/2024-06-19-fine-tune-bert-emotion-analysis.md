@@ -1,11 +1,13 @@
 ---
-layout: post
-title: "手把手教你微调模型处理情感分析任务，可用于分析客户行为、社交媒体情感指数"
+categories: articles
 date: 2024-06-19
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 手把手教你微调模型处理情感分析任务，可用于分析客户行为、社交媒体情感指数
 ---
-
 
 ![](/assets/images/3197ace280ff4e91bd7b64e037f0306d.png)
 
@@ -170,6 +172,3 @@ Transformers微调BERT进行情感分析的全过程，包括环境设置、数�
 [Graph Maker：轻松使用开源大模型将文本转为知识图谱，发现新知识！](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485901&idx=1&sn=0dbf87ae6cd841e826126cf2c3b99be0&chksm=c3546b5ef423e24889d10b4a9ee88655b6bf60e22b69596be5600ef28db3ef5433e4ca1edfc5&scene=21#wechat_redirect)  
 
 [最全盘点：人类历史上所有文本数据总量](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485448&idx=1&sn=149c4683bd8d1d2f75b444b900503823&chksm=c3546a9bf423e38dcb031eabe5d3f9002714ac13eb29d741b47d3aecde4ae3a0a88a9ce8232e&scene=21#wechat_redirect)
-
-  
-

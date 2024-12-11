@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "我是如何用AI提升业绩和工作效率的分享4个技巧！"
+categories: articles
 date: 2024-07-26
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 我是如何用AI提升业绩和工作效率的分享4个技巧！
 ---
 
 ![](/assets/images/7e701c2ac5f447ec942e29e44c759bc6.png)  

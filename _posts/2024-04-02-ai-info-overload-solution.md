@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "告别信息焦虑，用AI跟踪日新月异的AI领域进展"
+categories: news
 date: 2024-04-02
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: 告别信息焦虑，用AI跟踪日新月异的AI领域进展
 ---
 
 编者按

@@ -1,12 +1,13 @@
 ---
-layout: post
-title: "Auto-CoT：自动生成推理链，推理性能与人工介入设计思维链相当"
+categories: articles
 date: 2024-05-22
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: Auto-CoT：自动生成推理链，推理性能与人工介入设计思维链相当
 ---
-
-  
 
 ![](/assets/images/aeb2cdeacc034c6eb3012cd3a8a03f81.png)
 
@@ -48,6 +49,3 @@ step”提示来为每个问题生成推理链，但这种方法生成的链可�
 实验证明，即使在示例中存在一定比例的错误推理链，多样性也可以帮助维持整体推理性能。
 
 **这表明LLMs可以通过自动构建示例来执行CoT推理。**
-
-
-

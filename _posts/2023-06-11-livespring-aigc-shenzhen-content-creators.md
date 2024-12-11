@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "活水AIGC@深圳：成为AIGC时代的内容生产者"
+categories: news
 date: 2023-06-11
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: 活水AIGC@深圳：成为AIGC时代的内容生产者
 ---
 
 20230610 活水 AIGC 城市联盟举行了深圳第二场线下沙龙交流会，主题是如何打造个人IP，以及个人 IP 如何通过 AIGC
@@ -35,5 +37,4 @@ style: huoshui
 带来一个拼接诗的游戏。每个人基于今天的感受写一句话，最后拼接成一首诗，并朗读这首诗。这是一种全新的体验，也许正如这首诗所说：pinke,pinke,向快乐出发；临在当下，思维流淌；保持探索，将个人IP与内在动机结合；用想象力拥抱未来，行动中越来越好；你好
 AI ，你好未来。
 
-![](/assets/images/1dd16960adad4643ba5f8a83a9670294.jpg)![](/assets/images/1e43a298058c41919ec5936cee1c9f6f.jpg)  
-
+![](/assets/images/1dd16960adad4643ba5f8a83a9670294.jpg)![](/assets/images/1e43a298058c41919ec5936cee1c9f6f.jpg)

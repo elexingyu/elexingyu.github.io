@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "应对RAG的缺陷！8种你不知道的方式"
+categories: ['articles']
 date: 2024-05-06
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 应对RAG的缺陷！8种你不知道的方式
 ---
 
 作者：Hadi Arzouni
@@ -173,4 +176,3 @@ splitting-chunking-rag-applications。
   • [](https://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485147&idx=1&sn=0028ada5db0a1dfd8b2dafa9616bee4d&scene=21#wechat_redirect "AI21 Labs 实践经验：让大模型从“新奇玩具”到生产力工具")[提示工程 vs 微调 vs RAG？终于讲明白了](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247484977&idx=1&sn=e5e4bcc108c8cf6f01dcc305c84fd6ed&chksm=c35464a2f423edb46defe0a8340c82f945a29fbabe851f024a6b13e171ae41f6703f3c3a1a07&scene=21#wechat_redirect)
 
   • [多图预警！一文串联19篇顶级论文，带你厘清大模型发展脉络！](http://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485244&idx=1&sn=8744193193a914600a66c4ec26fc20f3&chksm=c35465aff423ecb9cdd71b785559e927ebbe3d9e6f71839827ccfc75589092b417011bdde12b&scene=21#wechat_redirect)[](https://mp.weixin.qq.com/s?__biz=Mzk0OTY0NzM1Ng==&mid=2247485168&idx=1&sn=e5dc118ed7d30c02ddc1b85ce9e59d86&scene=21#wechat_redirect "微软推出 Phi-3 Mini！性能超过两倍大小的模型")
-

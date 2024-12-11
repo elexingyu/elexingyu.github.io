@@ -1,9 +1,11 @@
 ---
-layout: post
-title: "在AI时代，知识工作者面临的十大难题"
+categories: articles
 date: 2024-04-08
-tags: ['AI']
+layout: post
 style: huoshui
+tags:
+- AI
+title: 在AI时代，知识工作者面临的十大难题
 ---
 
 作者：阳志平 来源：公众号「心智工具箱」

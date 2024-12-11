@@ -1,10 +1,13 @@
 ---
-layout: post
-title: "知识图谱入门指南：秒懂节点、关系和组织原则！"
-date: 2024-09-01
 author: 活水智能
-tags: ['知识图谱', '教程']
+categories: ['articles']
+date: 2024-09-01
+layout: post
 style: huoshui
+tags:
+- 知识图谱
+- 教程
+title: 知识图谱入门指南：秒懂节点、关系和组织原则！
 ---
 
 ![知识图谱概念，包括组织原则、关系和数据。](https://dist.neo4j.com/wp-content/uploads/20240722075336/what-is-knowledge-graph.png)

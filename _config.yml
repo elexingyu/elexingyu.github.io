@@ -31,3 +31,14 @@ customer_service: "img/customer_service_image.png"
 
 include:
   - assets
+
+permalink: /:categories/:title/
+
+# 添加栏目配置
+collections:
+  news:
+    output: true
+    permalink: /news/:title/
+  articles:
+    output: true 
+    permalink: /articles/:title/

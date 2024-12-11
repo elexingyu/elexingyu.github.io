@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "微软推出Phi-3Mini！性能超过两倍大小的模型"
+categories: ['articles']
 date: 2024-04-24
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 微软推出Phi-3Mini！性能超过两倍大小的模型
 ---
 
 ![](/assets/images/6aa4367c77224bc79e780a53cf260ec5.png)  

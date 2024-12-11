@@ -1,9 +1,12 @@
 ---
-layout: post
-title: "活水AIGC@北京：点亮创造力的独特舞台｜活动回顾"
+categories: news
 date: 2023-07-27
-tags: ['AI', '教程']
+layout: post
 style: huoshui
+tags:
+- AI
+- 教程
+title: 活水AIGC@北京：点亮创造力的独特舞台｜活动回顾
 ---
 
 ![](/assets/images/ec0734a29ecb4492bf36968727b21e48.png)
